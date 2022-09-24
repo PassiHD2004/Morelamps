@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "morelamps",
+  "version": "${version}",
+  "name": "MoreLamps",
+  "description": "Adds more Lamps to Minecraft",
+  "authors": [
+    "PassiHD"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/morelamps/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "morelamps.phoenixts.MorelampsClient"
+    ],
+    "main": [
+      "morelamps.phoenixts.Morelamps"
+    ]
+  },
+  "mixins": [
+    "morelamps.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "1.19"
+  }
+}
