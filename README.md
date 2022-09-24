@@ -1,7 +1,7 @@
 # Morelamps
 Adds more Lamps to Minecraft 1.19.x
 
-This is a very primitive Version as of now, so dont expect a lot ヅ
+This is a very primitive Mod as of now, so dont expect a lot ヅ
 
 ### Pull requests and Feature Requests are welcome!
 
